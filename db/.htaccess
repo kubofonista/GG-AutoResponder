@@ -1,0 +1,7 @@
+ErrorDocument 403 "<h1>Access Denied, Go away!</h1>"
+ErrorDocument 404 "<h1>Access Denied, Go away!</h1>"
+
+AuthName "Kubofonista Admin ZONE"
+AuthType Basic
+AuthUserFile ./.htpasswd
+Require valid-user
