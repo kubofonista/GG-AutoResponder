@@ -1,0 +1,97 @@
+# Licencja
+
+UTW”R (ZDEFINIOWANY PONIØEJ) PODLEGA NINIEJSZEJ LICENCJI PUBLICZNEJ CREATIVE COMMONS ("CCPL" LUB "LICENCJA"). UTW”R PODLEGA OCHRONIE PRAWA AUTORSKIEGO LUB INNYCH STOSOWNYCH PRZEPIS”W PRAWA. KORZYSTANIE Z UTWORU W SPOS”B INNY NIØ DOZWOLONY NA PODSTAWIE NINIEJSZEJ LICENCJI LUB PRZEPIS”W PRAWA JEST ZABRONIONE.
+
+WYKONANIE JAKIEGOKOLWIEK UPRAWNIENIA DO UTWORU OKREåLONEGO W NINIEJSZEJ LICENCJI OZNACZA PRZYJ CIE I ZGOD  NA ZWI•ZANIE POSTANOWIENIAMI NINIEJSZEJ LICENCJI.
+
+1. Definicje
+
+    "UtwÛr zaleøny" oznacza opracowanie Utworu lub Utworu i innych istniejπcych wczeúniej utworÛw lub przedmiotÛw praw pokrewnych, z wy≥πczeniem materia≥Ûw stanowiπcych ZbiÛr. Dla unikniÍcia wπtpliwoúci, jeøeli UtwÛr jest utworem muzycznym, artystycznym wykonaniem lub fonogramem, synchronizacja Utworu w czasie z obrazem ruchomym ("synchronizacja") stanowi UtwÛr Zaleøny w rozumieniu niniejszej Licencji.
+    "ZbiÛr" oznacza zbiÛr, antologiÍ, wybÛr lub bazÍ danych spe≥niajπcπ cechy utworu, nawet jeøeli zawierajπ nie chronione materia≥y, o ile przyjÍty w nich dobÛr, uk≥ad lub zestawienie ma twÛrczy charakter. UtwÛr stanowiπcy ZbiÛr nie bÍdzie uznawany za UtwÛr Zaleøny (zdefiniowany powyøej) w rozumieniu niniejszej Licencji.
+    "Rozpowszechnianie" oznacza wprowadzanie do obrotu, uøyczenie lub najem orygina≥u albo egzemplarzy Utworu lub Utworu Zaleønego.
+    "Licencjodawca"oznacza osobÍ fizycznπ, osoby fizyczne, jednostkÍ organizacyjnπ lub jednostki organizacyjne oferujπce UtwÛr na zasadach okreúlonych w niniejszej Licencji.
+    "TwÛrca" oznacza (z zastrzeøeniem Par. 8(f)), w odniesieniu do utworÛw twÛrcÍ lub podmiot, na rzecz ktÛrego prawa autorskie przys≥ugujπ w sposÛb pierwotny, lub w przypadku niemoønoúci ustalenia tych podmiotÛw, wydawcÍ lub producenta, a dodatkowo:
+        w przypadku artystycznych wykonaÒ - aktorÛw, recytatorÛw, dyrygentÛw, instrumentalistÛw, wokalistÛw, tancerzy i mimÛw oraz inne osoby w sposÛb twÛrczy przyczyniajπce siÍ do powstania wykonania;
+        w przypadku fonogramu lub wideogramu - producenta fonogramu lub wideogramu;
+        w przypadku nadaÒ programÛw - organizacjÍ radiowπ lub telewizyjnπ;
+        w przypadku pierwszych wydaÒ - wydawcÍ, ktÛry jako pierwszy w sposÛb zgodny z prawem opublikowa≥ lub w inny sposÛb rozpowszechni≥ utwÛr, ktÛrego czas ochrony juø wygas≥, a jego egzemplarze nie by≥y jeszcze publicznie udostÍpniane;
+        w przypadku wydaÒ naukowych i krytycznych - tego, kto po up≥ywie czasu ochrony prawa autorskiego do utworu przygotowa≥ jego wydanie krytyczne lub naukowe, nie bÍdπce utworem;
+        w przypadku baz danych niespe≥niajπcych cech utworu - producenta bazy danych.
+    "UtwÛr" oznacza przedmiot praw autorskich lub praw pokrewnych lub bazÍ danych niespe≥niajπcπ cech utworu udostÍpniane na podstawie niniejszej Licencji, z zastrzeøeniem Par. 8(f).
+    "Licencjobiorca" oznacza osobÍ fizycznπ lub jednostkÍ organizacyjnπ korzystajπcπ z uprawnieÒ okreúlonych niniejszπ Licencjπ, ktÛra nie naruszy≥a uprzednio warunkÛw niniejszej Licencji w odniesieniu do Utworu, lub ktÛra mimo uprzedniego naruszenia uzyska≥a wyraünπ zgodÍ Licencjodawcy na wykonywanie uprawnieÒ przyznanych Licencjπ.
+    "Publiczne Wykonanie" oznacza publiczne wykonanie, wystawienie, wyúwietlenie, odtworzenie oraz nadawanie i reemitowanie, a takøe publiczne udostÍpnianie Utworu w taki sposÛb, aby kaødy mÛg≥ mieÊ do niego dostÍp w miejscu i w czasie przez siebie wybranym.
+    "Zwielokrotnianie" oznacza wytwarzanie jakπkolwiek technikπ egzemplarzy Utworu, w tym technikπ drukarskπ, reprograficznπ, zapisu magnetycznego oraz technikπ cyfrowπ.
+
+2. Dozwolony uøytek. Øadne postanowienie niniejszej Licencji nie zmierza do ograniczenia, wy≥πczenia lub zawÍøenia sposobÛw korzystania nieobjÍtych prawem autorskim lub uprawnieÒ wynikajπcych z ograniczeÒ lub wyjπtkÛw od ochrony prawa autorskiego wynikajπcych z przepisÛw prawa autorskiego lub innych znajdujπcych zastosowanie przepisÛw.
+
+3. Udzielenie licencji. Zgodnie z postanowieniami niniejszej Licencji, Licencjodawca udziela niniejszym Licencjobiorcy nieodp≥atnej i niewy≥πcznej licencji na korzystanie z Utworu na terytorium ca≥ego úwiata, na czas nieoznaczony (do momentu wygaúniÍcia praw autorskich), na nastÍpujπcych polach eksploatacji:
+
+    Zwielokrotnianie Utworu, w≥πczanie Utworu do jednego lub wiÍcej ZbiorÛw, Zwielokrotnianie Utworu w≥πczonego do ZbiorÛw;
+    Rozpowszechnianie oraz Publiczne Wykonanie Utworu w tym Utworu w≥πczonego do ZbiorÛw; oraz
+    Pobieranie danych z Utworu oraz ich wtÛrne wykorzystanie.
+
+Powyøsze uprawnienia Licencjobiorca moøe wykonywaÊ na wszystkich rodzajach noúnikÛw, we wszystkich rodzajach úrodkÛw przekazu, oraz we wszystkich aktualnie znanych formatach. Powyøsze uprawnienia obejmujπ takøe uprawnienie do dokonywania modyfikacji Utworu koniecznych z technicznego punktu widzenia w celu wykonania uprawnieÒ w rÛønych úrodkach przekazu, noúnikach lub formatach, jednakøe Licencjobiorca nie moøe korzystaÊ z i rozporzπdzaÊ Utworami Zaleønymi. Wszystkie prawa wyraünie nie udzielone przez LicencjodawcÍ uwaøa siÍ za zastrzeøone, w≥πczajπc w to w szczegÛlnoúci uprawnienia okreúlone w Paragrafie 4(d) oraz 4(f).
+
+W zakresie, w jakim prawo w≥aúciwe wdraøajπce DyrektywÍ Parlamentu Europejskiego i Rady Nr 96/9 z 11.3.1996 r. o prawnej ochronie baz danych przyznaje Licencjodawcy prawa wy≥πczne do Utworu (lub do jego czÍúci) stanowiπcego bazÍ danych niespe≥niajπcπ cech utworu, Licencjodawca zrzeka siÍ tego prawa. W przypadku, gdy takie zrzeczenie siÍ jest nieskuteczne w úwietle prawa w≥aúciwego, Licencjodawca zobowiπzuje siÍ do niewykonywania tego prawa.
+
+4. Ograniczenia. Uprawnienia przyznane w Paragrafie 3 podlegajπ nastÍpujπcym ograniczeniom:
+
+    Licencjobiorca moøe RozpowszechniaÊ lub Publicznie WykonywaÊ UtwÛr jedynie zgodnie z postanowieniami niniejszej Licencji oraz pod warunkiem do≥πczenia kopii niniejszej Licencji lub wskazania wskazania jednolitego identyfikatora zasobu (URI), pod ktÛrym znajduje siÍ tekst niniejszej Licencji do kaødego egzemplarza Utworu Rozpowszechnianego lub Publicznie Wykonywanego.
+
+    Licencjobiorca nie moøe oferowaÊ ani narzucaÊ øadnych warunkÛw w zwiπzku z Utworem, ktÛre ograniczajπ postanowienia niniejszej Licencji lub moøliwoúÊ korzystajπcego z Utworu wykonywania uprawnieÒ udzielonych temu korzystajπcemu zgodnie z postanowieniami niniejszej Licencji.
+
+    Licencjobiorca nie moøe udzielaÊ sublicencji.
+
+    Licencjobiorca nie moøe zmieniaÊ lub usuwaÊ oznaczeÒ Utworu odnoszπcych siÍ do niniejszej Licencji oraz zawartej w niej klauzuli uchylenia siÍ od odpowiedzialnoúci na øadnym egzemplarzu Utworu Rozpowszechnianym lub Publicznie Wykonywanym.
+
+    Rozpowszechniajπc lub Publicznie Wykonujπc UtwÛr, Licencjobiorca nie ma prawa stosowaÊ øadnych skutecznych zabezpieczeÒ technicznych w stosunku do Utworu, ograniczajπcych moøliwoúÊ wykonywania praw wynikajπcych z Licencji przez korzystajπcego z Utworu, ktÛry uzyska≥ UtwÛr od Licencjobiorcy.
+
+    Niniejszy Paragraf 4(a) stosuje siÍ rÛwnieø do Utworu w≥πczonego do Zbioru, jednak Licencjobiorca nie jest zobowiπzany objπÊ Zbioru postanowieniami niniejszej Licencji.
+
+    W przypadku stworzenia przez LicencjobiorcÍ Zbioru, na wezwanie ktÛregokolwiek z LicencjodawcÛw Licencjobiorca jest zobowiπzany w rozsπdnym zakresie usunπÊ ze Zbioru wszelkie oznaczenia wymagane na podstawie Paragrafu 4(c), wedle wezwania.
+    Licencjobiorca nie moøe wykonywaÊ øadnych udzielonych w Paragrafie 3 uprawnieÒ w jakikolwiek sposÛb, ktÛry skierowany jest g≥Ûwnie na uzyskanie korzyúci handlowej lub pieniÍønego wynagrodzenia przeznaczonego na cele prywatne. Wymiana Utworu na inne chronione prawem autorskim utwory przez wymianÍ cyfrowπ plikÛw, lub teø w inny sposÛb, nie jest w rozumieniu niniejszej Licencji sposobem, ktÛry skierowany jest na uzyskanie korzyúci handlowej lub pieniÍønego wynagrodzenia przeznaczonego na cele prywatne, o ile w zwiπzku z wymianπ Utworu nie pobiera siÍ øadnego wynagrodzenia pieniÍønego.
+
+    Rozpowszechniajπc lub Publicznie Wykonujπc UtwÛr lub jakikolwiek ZbiÛr, Licencjobiorca jest zobowiπzany, o ile nie otrzyma≥ wezwania zgodnie z Paragrafem 4(a), zachowaÊ w stanie nienaruszonym wszelkie oznaczenia zwiπzane z prawno-autorskπ ochronπ Utworu oraz zapewniÊ, stosownie do moøliwoúci uøywanego noúnika lub úrodka przekazu oznaczenie:
+        imienia i nazwiska (lub pseudonimu, odpowiednio) TwÛrcy, jeøeli zosta≥y one do≥πczone do Utworu, oraz (lub) nazwÍ innych podmiotÛw jeøeli TwÛrca oraz (lub) Licencjodawca wskaøπ w oznaczeniach zwiπzanych z prawno-autorskπ ochronπ Utworu, regulaminach lub w inny rozsπdny sposÛb takie inne podmioty (np. sponsora, wydawcÍ, czasopismo) celem ich wymienienia ("Osoby Wskazane");
+        tytu≥u Utworu, jeøeli zosta≥ do≥πczony do Utworu; oraz
+        w rozsπdnym zakresie URI, o ile istnieje, ktÛry Licencjodawca wskaza≥ jako zwiπzany z Utworem, chyba øe taki URI nie odnosi siÍ do oznaczenia zwiπzanego z prawno-autorskπ ochronπ Utworu lub do informacji o zasadach licencjonowania Utworu.
+
+    Oznaczenia wymagane na podstawie niniejszego Paragrafu 4(c) mogπ byÊ wprowadzone w jakikolwiek rozsπdny sposÛb, przy czym w przypadku Zbioru przynajmniej w tych wszystkich miejscach, gdzie uwidocznione sπ oznaczenia odnoszπce siÍ do twÛrcÛw pozosta≥ych czÍúci lub wk≥adÛw w sposÛb przynajmniej tak samo widoczny jak te inne oznaczenia, o ile dokonano uwidocznienia oznaczeÒ wszystkich twÛrcÛw pozosta≥ych czÍúci lub wk≥adÛw.
+
+    Dla unikniÍcia wπtpliwoúci, Licencjobiorca moøe wykorzystywaÊ oznaczenia wymagane w niniejszym Paragrafie wy≥πcznie dla celÛw wskazania w≥aúciwych podmiotÛw w sposÛb okreúlony powyøej, a wykonujπc uprawnienia z niniejszej Licencji, Licencjobiorca nie moøe w sposÛb dorozumiany ani wyraüny stwierdzaÊ lub sugerowaÊ istnienia powiπzania, poparcia lub aprobaty ze strony TwÛrcy, Licencjodawcy oraz (lub) OsÛb Wskazanych dla Licencjobiorcy lub sposobu korzystania z Utworu przez LicencjobiorcÍ, o ile co innego nie wynika z odrÍbnego zezwolenia TwÛrcy, Licencjodawcy oraz (lub) OsÛb Wskazanych wyraøonego na piúmie pod rygorem niewaønoúci.
+
+    Dla unikniÍcia wπtpliwoúci:
+        Niezbywalne prawo wynagrodzenia i przymusowe poúrednictwo. Jeøeli wed≥ug prawa w≥aúciwego:
+            Licencjodawcy przys≥uguje niezbywalne prawo do wynagrodzenia, lub
+            korzystanie z Utworu w okreúlony sposÛb jest moøliwe jedynie za poúrednictwem osoby trzeciej, a Licencjodawca nie moøe skutecznie wy≥πczyÊ takiego przymusowego poúrednictwa niniejszπ Licencjπ,
+        to Licencjodawca zastrzega sobie wy≥πczne prawo do takiego wynagrodzenia oraz zastrzega takie przymusowe poúrednictwo bez ograniczeÒ;
+        Zbywalne prawo wynagrodzenia z tytu≥u licencji ustawowych oraz przymusowe poúrednictwo. Jeøeli wed≥ug prawa w≥aúciwego:
+            Licencjodawca nie moøe siÍ sprzeciwiÊ wykorzystaniu Utworu na okreúlone sposoby, a przys≥uguje mu za to zbywalne prawo do wynagrodzenia,
+            korzystanie z Utworu w okreúlony sposÛb jest moøliwe jedynie za poúrednictwem osoby trzeciej, lecz Licencjodawca moøe wy≥πczyÊ takie przymusowe poúrednictwo, lub
+            domniemywa siÍ, øe osoba trzecia moøe wystÍpowaÊ na rzecz Licencjodawcy,
+        to Licencjodawca zastrzega sobie wy≥πczne prawo do takiego wynagrodzenia, zastrzega takie przymusowe poúrednictwo lub zastrzega takie domniemanie (odpowiednio) w zakresie, w jakim Licencjobiorca korzysta z Utworu w celu lub w sposÛb, ktÛry rÛøni siÍ od uøytku niekomercyjnego dozwolonego na podstawie Paragrafu 4(b), a w przeciwnym przypadku zrzeka siÍ takiego wynagrodzenia, przymusowego poúrednictwa oraz wy≥πcza takie domniemanie (odpowiednio); oraz
+        Wynagrodzenia umowne oraz cz≥onkostwo w organizacji zbiorowego zarzπdzania.Licencjodawca zastrzega sobie prawo do pobierania wynagrodzenia, osobiúcie bπdü za poúrednictwem organizacji zbiorowego zarzπdzania, za kaøde wykonywanie przez LicencjobiorcÍ uprawnieÒ przyznanych niniejszπ Licencjπ w celu lub w sposÛb inny niø dozwolone w Paragrafie 4(b) uøycie niekomercyjne.
+    Dla unikniÍcia wπtpliwoúci, ograniczenia, o ktÛrych mowa w Paragrafach 4(a) do 4(d), nie majπ zastosowania do takich UtworÛw lub ich czÍúci, ktÛre spe≥niajπ definicjÍ Utworu w rozumieniu niniejszej Licencji wy≥πcznie dlatego, øe stanowiπ bazÍ danych niespe≥niajπcπ cech utworu.
+    Niniejsza licencja nie narusza praw osobistych TwÛrcy ani Licencjodawcy w zakresie, w jakim prawa te sπ chronione przez prawo w≥aúciwe, a niniejsza Licencja lub odrÍbne porozumienie zawarte na piúmie pod rygorem niewaønoúci nie stanowi skutecznie inaczej.
+
+5. Oúwiadczenia, Zapewnienia oraz Wy≥πczenie odpowiedzialnoúci
+
+JEØELI STRONY NIE POSTANOWI• INACZEJ W ODR BNYM POROZUMIENIU SPORZ•DZONYM NA PIåMIE POD RYGOREM NIEWAØNOåCI, LICENCJODAWCA UDOST PNIA UTW”R W TAKIEJ FORMIE W JAKIEJ ZAPOZNA£ SI  Z NIM LICENCJOBIORCA I W NAJDALEJ ID•CYM STOPNIU NA JAKI POZWALA PRAWO W£AåCIWE NIE SK£ADA ØADNYCH ZAPEWNIE— ORAZ NIE UDZIELA ØADNYCH GWARANCJI A TAKØE WY£•CZA R KOJMI , CZY TO WYRAèN•, DOROZUMIAN• CZY INN•, W SZCZEG”LNOåCI DOTYCZ•CYCH TYTU£U, MOØLIWOåCI KORZYSTANIA Z UTWORU ZGODNIE Z JEGO PRZEZNACZENIEM, PRZEZNACZENIA UTWORU DO KONKRETNEGO CELU, CO DO TEGO, ØE NIE NARUSZA ON PRAW INNYCH OS”B, BRAKU JAWNYCH LUB UKRYTYCH WAD, DOK£ADNOåCI, WYST POWANIA LUB NIEWYST POWANIA WAD WIDOCZNYCH JAK I UKRYTYCH. PRAWO W£AåCIWE MOØE NIE ZEZWALA∆ NA NIEKT”RE SPOåR”D POWYØSZYCH WY£•CZE—, WI C MOG• ONE NIE MIE∆ ZASTOSOWANIA.
+
+6. Ograniczenie odpowiedzialnoúci
+
+O ILE PRAWO W£AåCIWE NIE STANOWI INACZEJ, W ØADNYM WYPADKU LICENCJODAWCA NIE ODPOWIADA WOBEC LICENCJOBIORCY NA ØADNEJ PODSTAWIE PRAWNEJ ZA ØADNE SZCZEG”LNE, PRZYPADKOWE LUB NAST PCZE SZKODY WYNIKAJ•CE Z NINIEJSZEJ LICENCJI LUB WYKORZYSTANIA UTWORU, NAWET JEØELI LICENCJODAWCA ZOSTA£ POWIADOMIONY O MOØLIWOåCI WYST•PIENIA TAKICH SZK”D.
+
+7. WygaúniÍcie
+
+    Licencja automatycznie wygasa w przypadku jakiegokolwiek jej naruszenia przez LicencjobiorcÍ. W takim przypadku licencje osÛb, ktÛre otrzyma≥y od Licencjobiorcy ZbiÛr, nie wygasajπ, o ile osoby te nie naruszajπ postanowieÒ tych licencji. Paragrafy 1, 2, 5, 6, 7 oraz 8 pozostajπ w mocy po wygaúniÍciu niniejszej Licencji.
+    Zgodnie z powyøszymi postanowieniami Licencja udzielana jest na czas nieoznaczony (do momentu wygaúniÍcia praw autorskich). Niezaleønie od tego Licencjodawca zachowuje prawo do udostÍpnienia Utworu na innych warunkach, lub do zaprzestania udostÍpniania Utworu, z tym jednak zastrzeøeniem, øe taka decyzja Licencjodawcy nie bÍdzie stanowi≥a wypowiedzenia lub innego rozwiπzania niniejszej Licencji (lub teø innej licencji udzielonej na podstawie niniejszej Licencji), ktÛra raz udzielona Licencjobiorcy w pe≥nym wymiarze obowiπzuje dopÛki nie nastπpi jej wygaúniÍcie zgodnie z postanowieniem poprzedzajπcym.
+
+8. Postanowienia rÛøne
+
+    Za kaødym razem, gdy Licencjobiorca Rozpowszechnia lub Publicznie Wykonuje UtwÛr lub ZbiÛr, Licencjodawca oferuje korzystajπcym licencjÍ na UtwÛr na takich samych warunkach jakie uzyska≥ Licencjobiorca na podstawie niniejszej Licencji.
+    Jeúli jakiekolwiek postanowienie niniejszej Licencji jest niewaøne lub bezskuteczne w úwietle obowiπzujπcego prawa, jego niewaønoúÊ lub bezskutecznoúÊ nie wp≥ywa na pozosta≥e postanowienia Licencji. W przypadku braku dodatkowego porozumienia miÍdzy stronami, niewaøne lub bezskuteczne postanowienie powinno byÊ interpretowane tak, aby zachowaÊ jego waønoúÊ i skutecznoúÊ oraz brzmienie moøliwe bliskie brzmieniu pierwotnemu.
+    Øadnego z postanowieÒ niniejszej Licencji nie uznaje siÍ za uchylone, a øadnego naruszenia nie uznaje siÍ za zaakceptowane, dopÛki druga strona, pod rygorem niewaønoúci, nie uzna pisemnie takiego uchylenia lub teø nie wyrazi na piúmie nastÍpczego zezwolenia na naruszenie.
+    Niniejsza Licencja zawiera ca≥oúÊ postanowieÒ pomiÍdzy stronami dotyczπcych udostÍpnianego na jej podstawie Utworu. Wszystkie nie ujÍte w tej Licencji postanowienia, porozumienia lub oúwiadczenia dotyczπce Utworu uznaje siÍ za nieistniejπce. Licencjodawcy nie wiπøπ øadne dodatkowe postanowienia podane mu do wiadomoúci przez LicencjobiorcÍ w jakikolwiek sposÛb. Wszelkie zmiany Licencji wymagajπ umowy pomiÍdzy Licencjodawcπ a Licencjobiorcπ wyraøonej na piúmie pod rygorem niewaønoúci.
+    Ten punkt zosta≥ pominiÍty.
+    Wyraøenia uøyte w niniejszej Licencji naleøy rozumieÊ zgodnie z Ustawπ z 4 lutego 1994 r. o prawie autorskim i prawach pokrewnych (Dz. U. z 2000 r. Nr 80, poz. 904 t. jedn. z pÛün. zm.) oraz zgodnie z Ustawπ z 27 lipca 2001 o ochronie baz danych (Dz. U. z 2001 r. Nr 128 poz. 1402 z pÛün. zm.), o ile prawem w≥aúciwym jest prawo polskie. W øadnym przypadku zakres niniejszej Licencji nie moøe byÊ szerszy niø zakres odpowiedniego prawa wy≥πcznego okreúlony zgodnie z przepisami prawa w≥aúciwego.
