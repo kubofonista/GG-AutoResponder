@@ -53,7 +53,7 @@ if($autor == $admin AND strpos($tresc,'status') !== false) {
 	die;
 }
 
-$M->addText($odpowiedz,FORMAT_NONE);
+$M->addText($odpowiedz."\n\n //Kubofonista.NET GG AutoResponder",FORMAT_NONE);
 $M->reply();
 
 $M->clear();
