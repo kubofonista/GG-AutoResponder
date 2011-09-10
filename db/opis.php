@@ -1,6 +1,7 @@
 <?php
 if($_POST) {
 	include('config.php');
+	include('../PushConnection.php');
 	$P = new PushConnection($gg,$mail,$haslo);
 	$typ = $_POST['typ'];
 	$tresc = $_POST['opis'];
