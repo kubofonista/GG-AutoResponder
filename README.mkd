@@ -26,10 +26,15 @@ Bota można dowolnie rozbudowywać na użytek własny (jeśli chcesz na publiczn
 ### Licencja
 
 Skrypt oparty jest na licencji Creative Commons Uznanie autorstwa-Użycie niekomercyjne-Bez utworów zależnych 3.0 Polska License.
+
 Wolno: kopiować, rozpowszechniać, odtwarzać i wykonywać utwór
+
 Na następujących warunkach:
+
 - Uznanie autorstwa — Utwór należy oznaczyć w sposób określony przez Twórcę lub Licencjodawcę 
+
 - Użycie niekomercyjne — Nie wolno używać tego utworu do celów komercyjnych.
+
 - Bez utworów zależnych — Nie wolno zmieniać, przekształcać ani tworzyć nowych dzieł na podstawie tego utworu.
 
 Uznanie autorstwa polega na zakazie usuwania informacji o responderze z wiadomości zwrotnych.
