@@ -9,8 +9,11 @@ Jest to moja wersja AutoRespondera gdyż ten od GG nie podobał mi się, nie umo
 - Rejestrowanie wiadomości lub wysyłanie ich również pod nasz drugi numer GG
 - Możliwość zdalnego zmieniania opisu (za pomocą innego numeru GG)
 - Rejestrowane wiadomości poza numerami GG mogą zawierać nazwę osób z listy kontaktów
+- Możliwość ustawienia osobnego tekstu zwrotnego w zalezności od otrzymanej wiadomości
+- Możliwość ustawienia osobnego tekstu zwrotnego dla każdego nadawcy osobno (np. numer 1 otrzyma X a numer 2 dostanie Y)
+- Możliwosć połączenia obu powyższych i ustalenia, że np. numer 1 na treść A otrzyma odpowiedź X, numer2 na tą samą treść otrzyma Y a wszyscy inni otrzymają na tą treść odpowiedź Z
 
-Bota można dowolnie rozbudowywać na użytek własny (jeśli chcesz na publiczny to tylko za uznaniem autorstwa). Przykładowo można przygotować dla każdej osoby inną odpowiedź (co w tym od GG jest niemożliwe), dodawać odpowiedzi w zależności od otrzymanej wiadomości i tak dalej.
+Bota można dowolnie rozbudowywać na użytek własny (jeśli chcesz na publiczny to tylko za uznaniem autorstwa).
 
 ### Instalacja
 

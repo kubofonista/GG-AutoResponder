@@ -5,6 +5,7 @@
 // - Uznanie autorstwa — Utwór należy oznaczyć w sposób określony przez Twórcę lub Licencjodawcę 
 // - Użycie niekomercyjne — Nie wolno używać tego utworu do celów komercyjnych.
 // - Bez utworów zależnych — Nie wolno zmieniać, przekształcać ani tworzyć nowych dzieł na podstawie tego utworu.
+// UZNANIE AUTORSTWA POLEGA NA NIE KASOWANIU INFORMACJI O AUTORESPONDERZE Z WIADOMOSCI ZWROTNYCH!!
 // http://creativecommons.org/licenses/by-nc-nd/3.0/pl/legalcode
 
 error_reporting(0);
@@ -51,6 +52,14 @@ if($autor == $admin AND strpos($tresc,'status') !== false) {
 	$M->addText('Zapisałem opis pomyślnie ;)',FORMAT_NONE);
 	$M->reply();
 	die;
+}
+
+if(isset($odpz[$autor][$tresc])) { 
+	$wiadomosc = $odpz[$autor][$tresc];
+} else if (isset($odpt[$tresc])) {
+	$wiadomosc = $odpt[$tresc];
+} else if (isset($odp[$autor])) {
+	$wiadomosc = $odp[$autor];
 }
 
 $M->addText($odpowiedz."\n\n //Kubofonista.NET GG AutoResponder",FORMAT_NONE);
