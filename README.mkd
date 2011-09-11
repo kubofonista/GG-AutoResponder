@@ -40,6 +40,6 @@ Na następujących warunkach:
 
 - Bez utworów zależnych — Nie wolno zmieniać, przekształcać ani tworzyć nowych dzieł na podstawie tego utworu.
 
-Uznanie autorstwa polega na zakazie usuwania informacji o responderze z wiadomości zwrotnych.
+Uznanie autorstwa polega na zakazie usuwania informacji o bocie z wiadomości zwrotnych oraz nie naruszanie odpowiedzi na /ver
 
 Pełen tekst licencji dostępny jest w pliku LICENCJA.mkd

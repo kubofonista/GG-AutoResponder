@@ -5,7 +5,7 @@
 // - Uznanie autorstwa — Utwór należy oznaczyć w sposób określony przez Twórcę lub Licencjodawcę 
 // - Użycie niekomercyjne — Nie wolno używać tego utworu do celów komercyjnych.
 // - Bez utworów zależnych — Nie wolno zmieniać, przekształcać ani tworzyć nowych dzieł na podstawie tego utworu.
-// UZNANIE AUTORSTWA POLEGA NA NIE KASOWANIU INFORMACJI O AUTORESPONDERZE Z WIADOMOSCI ZWROTNYCH!!
+// UZNANIE AUTORSTWA POLEGA NA NIE KASOWANIU INFORMACJI O BOCIE Z WIADOMOSCI ZWROTNYCH ORAZ NIE ZMIENIANIU ODPOWIEDZI NA /ver!!
 // http://creativecommons.org/licenses/by-nc-nd/3.0/pl/legalcode
 
 error_reporting(0);
@@ -54,7 +54,9 @@ if($autor == $admin AND strpos($tresc,'status') !== false) {
 	die;
 }
 
-if(isset($odpz[$autor][$tresc])) { 
+if($tresc == '/ver') { // Usuwanie = zlamanie licencji
+	$odpowiedz = "Powered by Kubofonista.NET GG AutoResponder ver 1.1\nStrona WWW autora: http://kubofonista.net\nStrona projektu: https://github.com/kubofonista/GG-AutoResponder\nPobieranie: https://github.com/kubofonista/GG-AutoResponder/zipball/master"; // Zmiana = zlamanie licencji
+} else if(isset($odpz[$autor][$tresc])) { 
 	$odpowiedz = $odpz[$autor][$tresc];
 } else if (isset($odpt[$tresc])) {
 	$odpowiedz = $odpt[$tresc];
@@ -62,7 +64,7 @@ if(isset($odpz[$autor][$tresc])) {
 	$odpowiedz = $odp[$autor];
 }
 
-$M->addText($odpowiedz."\n\n //Kubofonista.NET GG AutoResponder",FORMAT_NONE);
+$M->addText($odpowiedz."\n\n (i) Informacja o bocie: wpisz /ver",FORMAT_NONE);
 $M->reply();
 
 $M->clear();
