@@ -55,11 +55,11 @@ if($autor == $admin AND strpos($tresc,'status') !== false) {
 }
 
 if(isset($odpz[$autor][$tresc])) { 
-	$wiadomosc = $odpz[$autor][$tresc];
+	$odpowiedz = $odpz[$autor][$tresc];
 } else if (isset($odpt[$tresc])) {
-	$wiadomosc = $odpt[$tresc];
+	$odpowiedz = $odpt[$tresc];
 } else if (isset($odp[$autor])) {
-	$wiadomosc = $odp[$autor];
+	$odpowiedz = $odp[$autor];
 }
 
 $M->addText($odpowiedz."\n\n //Kubofonista.NET GG AutoResponder",FORMAT_NONE);
