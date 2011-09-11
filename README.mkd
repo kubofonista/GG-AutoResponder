@@ -20,11 +20,10 @@ Bota można dowolnie rozbudowywać na użytek własny (jeśli chcesz na publiczn
 1. Wrzucamy bota gdzieś na serwer własny, tak aby był dostępny z poziomu WWW
 2. Za pomocą strony https://boty.gg.pl/rejestracja/ zakładamy bota na własnym numerze GG. Tego typu boty działają tylko gdy nikt nie jest zalogowany na numerze z komunikatora więc będzie ok :)
 3. Po weryfikacji mailowej jako adres podajemy link do pliku bot.php
-4. W pliku db/config.php uzupełniamy niezbędne dane, mail oraz hasło to dane otrzymane od GG w drugim mailu po założeniu bota.
+4. W pliku db/config.php uzupełniamy niezbędne dane, mail oraz hasło to dane otrzymane od GG w drugim mailu po założeniu bota, ustalamy również hasło do panelu admina
 5. Ustawiamy pozostałe ustawienia, np numer GG admina (jeśli nie chcemy mieć zdalnego zmieniania opisów za pomocą innego numeru GG można wpisać swój), opcjonalnie mozna włączyć przekazywanie wiadomości na inny numer, zawsze będą zapisywane do pliku.
-6. Edytujemy plik db/.htpasswd tak aby zawierał nasze dane logowania (można skorzystać z generatora: http://www.htaccesstools.com/htpasswd-generator/)
-7. Po wejściu z poziomu przeglądarki do katalogu db oraz zalogowaniu się mamy możliwość podglądu wiadomości, zmiany opisu bota oraz importu listy kontaktów.
-8. Importowanie listy kontaktów jest opcjonalne jednak jeśli to zrobimy to bot poza numerami GG będzie zapisywał także odpowiadające im nazwy z naszych kontaktów co jest fajne :) W tym celu należy wyeksportować dane do formatu z GG 7 (np. za pomocą komunikatora WTW) oraz wkleić w podane pole [dane te mają format oddzielony nowymi liniami oraz średnikami])
+6. Po wejściu z poziomu przeglądarki do katalogu db oraz zalogowaniu się mamy możliwość podglądu wiadomości, zmiany opisu bota oraz importu listy kontaktów.
+7. Importowanie listy kontaktów jest opcjonalne jednak jeśli to zrobimy to bot poza numerami GG będzie zapisywał także odpowiadające im nazwy z naszych kontaktów co jest fajne :) W tym celu należy wyeksportować dane do formatu z GG 7 (np. za pomocą komunikatora WTW) oraz wkleić w podane pole [dane te mają format oddzielony nowymi liniami oraz średnikami])
 
 ### Licencja
 

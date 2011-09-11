@@ -1,6 +1,10 @@
 <?php
+include('config.php');
+session_start();
+
+if($_SESSION["__ggr_{$gg}"] != true) { Header('Location: auth.php'); die; }
+
 if($_POST) {
-	include('config.php');
 	include('../PushConnection.php');
 	$P = new PushConnection($gg,$mail,$haslo);
 	$typ = $_POST['typ'];

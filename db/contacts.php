@@ -1,4 +1,9 @@
 <?php
+include('config.php');
+session_start();
+
+if($_SESSION["__ggr_{$gg}"] != true) { Header('Location: auth.php'); die; }
+
 if($_POST) {
 	$kontakty = $_POST['kontakty'];
 	$kontakt = explode("\n",$kontakty);

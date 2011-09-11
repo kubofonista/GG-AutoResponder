@@ -5,6 +5,8 @@ $gg = 1;
 $mail = '';
 $haslo = '';
 
+$haslopanel = ''; // Haslo do panelu administracyjnego
+
 $ignorowani = Array(1,2); // Numery ktorych wiadomosci nie sa rejestrowane i nie dostaja odpowiedzi
 $admin = 3; // Numer GG z uprawnieniami do zmianu opisu oraz numer na ktory przekierowywane sa wiadomosci
 
