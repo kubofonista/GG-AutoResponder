@@ -49,7 +49,7 @@ if($_POST['clear'] == 'true') {
 						$wiad = file_get_contents('wiadomosci.txt');
 						$wiad = htmlspecialchars($wiad);
 						$wiad = nl2br($wiad);
-						$wiad = preg_replace('/gg\:\/\/([0-9]+)/', '<a href="gg://$1">GG:$1</a>', $wiad);
+						$wiad = preg_replace('/gg\:\/\/([0-9]+)/', '<img src="http://status.gadu-gadu.pl/users/status.asp?id=$1&styl=1" style="vertical-align:-4px;" /><a href="gg://$1">GG:$1</a>', $wiad);
 						echo $wiad;
 						?>
 					</div>
