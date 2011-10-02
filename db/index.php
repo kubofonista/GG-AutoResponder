@@ -47,6 +47,29 @@ if($_SESSION["__ggr_{$gg}"] != true) { Header('Location: auth.php'); die; }
 						<li><a href="info.php"><b>Informacje &raquo;</b></a></li>
 						<li><a href="wyloguj.php"><b>Wyloguj się &raquo;</b></a></li>
 					</ul>
+					<?php
+					$aktualna = file_get_contents('ver.txt');
+					$najnowsza = file_get_contents('https://raw.github.com/kubofonista/GG-AutoResponder/master/db/ver.txt');
+					
+					if($najnowsza > $aktualna) {
+						echo '<br /><div style="background: #FFFFDD; padding: 10px; margin: 6px; border: 1px dashed #000; font-size:15px; color:brown"><b>Dostępna jest nowsza wersja respondera! <a href="https://github.com/kubofonista/GG-AutoResponder/zipball/master">Pobierz &raquo;</a></b><br /><br />';
+						echo '<div style="background: #EDEDD2; padding: 10px; border: 1px dotted #A0522D; font-size:11px; color:black;"><b>Changelog projektu:</b><br />';
+						$zmiany = file_get_contents('https://api.github.com/repos/kubofonista/gg-autoresponder/commits');
+						$zmiany = json_decode($zmiany,true);
+						foreach ($zmiany as $nic=>$zmianyy) {
+							$data = strtotime($zmianyy['commit']['author']['date']);
+							$data = date('d.m.Y G:i',$data);
+							$tresc = $zmianyy['commit']['message'];
+							$url = $zmianyy['commit']['url'];
+							$url = str_replace('api.','',$url);
+							$url = str_replace('repos/','',$url);
+							$url = str_replace('git/','',$url);
+							$url = str_replace('commits','commit',$url);
+							echo "[{$data}] - {$tresc} | <a href='{$url}' target='_blank'>Lista zmian w plikach &raquo;</a><br />";
+						}
+						echo '</div></div>';
+					}
+					?>
 <!-- body end -->
 				</div>
 				<div id="stopka" style="text-align:center;padding-top:14px">
