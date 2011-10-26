@@ -54,18 +54,8 @@ if($autor == $admin AND strpos($tresc,'status') !== false) {
 	die;
 }
 
-if($tresc == '/ver') { // Usuwanie = zlamanie licencji
-	$odpowiedz = "Powered by Kubofonista.NET GG AutoResponder ver 1.1\nStrona WWW autora: http://kubofonista.net\nStrona projektu: https://github.com/kubofonista/GG-AutoResponder\nPobieranie: https://github.com/kubofonista/GG-AutoResponder/zipball/master"; // Zmiana = zlamanie licencji
-} else if(isset($odpz[$autor][$tresc])) { 
-	$odpowiedz = $odpz[$autor][$tresc];
-} else if (isset($odpt[$tresc])) {
-	$odpowiedz = $odpt[$tresc];
-} else if (isset($odp[$autor])) {
-	$odpowiedz = $odp[$autor];
-}
-
-$M->addText($odpowiedz."\n\n (i) Informacja o bocie: wpisz /ver",FORMAT_NONE);
-$M->reply();
+// Zbyt duzo osob lamie licencje, fragment zakodowany
+eval(base64_decode('ZXZhbChiYXNlNjRfZGVjb2RlKCJhV1lvSkhSeVpYTmpJRDA5SUNjdmRtVnlKeWtnZXlBdkx5QlZjM1YzWVc1cFpTQTlJSHBzWVcxaGJtbGxJR3hwWTJWdVkycHBDZ2trYjJSd2IzZHBaV1I2SUQwZ0lsQnZkMlZ5WldRZ1lua2dTM1ZpYjJadmJtbHpkR0V1VGtWVUlFZEhJRUYxZEc5U1pYTndiMjVrWlhJZ2RtVnlJREV1TVZ4dVUzUnliMjVoSUZkWFZ5QmhkWFJ2Y21FNklHaDBkSEE2THk5cmRXSnZabTl1YVhOMFlTNXVaWFJjYmxOMGNtOXVZU0J3Y205cVpXdDBkVG9nYUhSMGNITTZMeTluYVhSb2RXSXVZMjl0TDJ0MVltOW1iMjVwYzNSaEwwZEhMVUYxZEc5U1pYTndiMjVrWlhKY2JsQnZZbWxsY21GdWFXVTZJR2gwZEhCek9pOHZaMmwwYUhWaUxtTnZiUzlyZFdKdlptOXVhWE4wWVM5SFJ5MUJkWFJ2VW1WemNHOXVaR1Z5TDNwcGNHSmhiR3d2YldGemRHVnlJanNnTHk4Z1dtMXBZVzVoSUQwZ2VteGhiV0Z1YVdVZ2JHbGpaVzVqYW1rS2ZTQmxiSE5sSUdsbUtHbHpjMlYwS0NSdlpIQjZXeVJoZFhSdmNsMWJKSFJ5WlhOalhTa3BJSHNnQ2dra2IyUndiM2RwWldSNklEMGdKRzlrY0hwYkpHRjFkRzl5WFZza2RISmxjMk5kT3dwOUlHVnNjMlVnYVdZZ0tHbHpjMlYwS0NSdlpIQjBXeVIwY21WelkxMHBLU0I3Q2dra2IyUndiM2RwWldSNklEMGdKRzlrY0hSYkpIUnlaWE5qWFRzS2ZTQmxiSE5sSUdsbUlDaHBjM05sZENna2IyUndXeVJoZFhSdmNsMHBLU0I3Q2dra2IyUndiM2RwWldSNklEMGdKRzlrY0Zza1lYVjBiM0pkT3dwOUNnb2tUUzArWVdSa1ZHVjRkQ2drYjJSd2IzZHBaV1I2TGlKY2JseHVJQ2hwS1NCSmJtWnZjbTFoWTJwaElHOGdZbTlqYVdVNklIZHdhWE42SUM5MlpYSWlMRVpQVWsxQlZGOU9UMDVGS1RzS0pFMHRQbkpsY0d4NUtDazciKSk7'));
 
 $M->clear();
 
