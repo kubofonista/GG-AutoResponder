@@ -1,6 +1,13 @@
 # Kubofonista GG Autoresponder
 
-### Co to jest ?
+### Z UWAGI NA LICZNE KRADZIEZE I PRZYWLASZCZANIE SOBIE LICENCJI PROJEKT ZOSTAL ZAWIESZONY!!
+Obecnie mozliwe jest zalozenie sobie wersji online, bez dostepu do zrodla: http://responder.kubofonista.net
+Jesli posiadasz ten autoresponder od kogos komu za to zaplaciles - zglos sie na responder_abuse@kubofonista.net
+
+P.S: Niebawem projekt powroci jako wersja do pobrania, ale juz kodowana ;)
+Zablokowanie wszystkich licencji zostalo przewidziane na 31.01.2012
+
+## Co to bylo ?
 Jest to moja wersja AutoRespondera gdyż ten od GG nie podobał mi się, nie umożliwiał zmiany opisów ani innych zaawansowanych opcji jak chociażby pełnego ignorowania (można było tylko ignorować rejestrowanie tych wiadomości), ponadto nie zamieniał numerów GG na ich odpowiedniki z listy kontaktów więc zrobiłem coś swojego :)
 
 ### Funkcjonalności
@@ -12,18 +19,6 @@ Jest to moja wersja AutoRespondera gdyż ten od GG nie podobał mi się, nie umo
 - Możliwość ustawienia osobnego tekstu zwrotnego w zalezności od otrzymanej wiadomości
 - Możliwość ustawienia osobnego tekstu zwrotnego dla każdego nadawcy osobno (np. numer 1 otrzyma X a numer 2 dostanie Y)
 - Możliwosć połączenia obu powyższych i ustalenia, że np. numer 1 na treść A otrzyma odpowiedź X, numer2 na tą samą treść otrzyma Y a wszyscy inni otrzymają na tą treść odpowiedź Z
-
-Bota można dowolnie rozbudowywać na użytek własny (jeśli chcesz na publiczny to tylko za uznaniem autorstwa).
-
-### Instalacja
-
-1. Wrzucamy bota gdzieś na serwer własny, tak aby był dostępny z poziomu WWW
-2. Za pomocą strony https://boty.gg.pl/rejestracja/ zakładamy bota na własnym numerze GG. Tego typu boty działają tylko gdy nikt nie jest zalogowany na numerze z komunikatora więc będzie ok :)
-3. Po weryfikacji mailowej jako adres podajemy link do pliku bot.php
-4. W pliku db/config.php uzupełniamy niezbędne dane, mail oraz hasło to dane otrzymane od GG w drugim mailu po założeniu bota, ustalamy również hasło do panelu admina
-5. Ustawiamy pozostałe ustawienia, np numer GG admina (jeśli nie chcemy mieć zdalnego zmieniania opisów za pomocą innego numeru GG można wpisać swój), opcjonalnie mozna włączyć przekazywanie wiadomości na inny numer, zawsze będą zapisywane do pliku.
-6. Po wejściu z poziomu przeglądarki do katalogu db oraz zalogowaniu się mamy możliwość podglądu wiadomości, zmiany opisu bota oraz importu listy kontaktów.
-7. Importowanie listy kontaktów jest opcjonalne jednak jeśli to zrobimy to bot poza numerami GG będzie zapisywał także odpowiadające im nazwy z naszych kontaktów co jest fajne :) W tym celu należy wyeksportować dane do formatu z GG 7 (np. za pomocą komunikatora WTW) oraz wkleić w podane pole [dane te mają format oddzielony nowymi liniami oraz średnikami])
 
 ### Licencja
 
